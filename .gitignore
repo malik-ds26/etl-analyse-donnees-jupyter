@@ -1,0 +1,26 @@
+# Python / env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Données : ignorer tout par défaut
+data/**
+# garder un placeholder si besoin
+!data/.gitkeep
+
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs / archives
+*.log
+*.zip

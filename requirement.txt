@@ -1,0 +1,14 @@
+# Core
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# Notebook
+jupyter
+
+# Web/API (si collecte météo OpenWeather)
+requests
+python-dotenv
+
